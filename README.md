@@ -1,5 +1,10 @@
 # 7Days7Designs-Challenge1
 
+
+![desktop](desktop.png)
+
+------
+
 Challenge 1: Design a signup form. (Whoops, Typo in the Repo name)
 https://www.youtube.com/watch?v=C9WSSN2f4u0
 
@@ -10,7 +15,4 @@ I tried to have 2 layouts. For small screen devices, a vertical/column design. f
 
 ![mobile](mobile.png)
 
-------
-
-![desktop](desktop.png)
 
