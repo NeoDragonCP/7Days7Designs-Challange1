@@ -6,5 +6,7 @@ I didn't have time to add a success design or add any real javascript here but I
 I tried to have 2 layouts. For small screen devices, a vertical/column design. for larger devices a row based design.
 
 ![mobile](mobile.png)
+
+
 ![desktop](desktop.png)
 
