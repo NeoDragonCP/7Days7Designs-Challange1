@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Newsletter Design Challenge</title>
+    <meta name="description" content="Created by Stephen McVicker" />
+    <link rel="stylesheet" href="index.css" />
+  </head>
+  <body>
+    <div class="newsletter">
+      <img
+        src="https://images.unsplash.com/photo-1547419543-db0732b9dd06?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+        alt="signup image"
+      />
+      <div class="newsletter__content">
+        <h1>Newsletter Signup</h1>
+        <p>
+          Join our newsletter and never miss out on our updates and future
+          deals!
+        </p>
+
+        <div class="form__group field">
+          <input
+            type="input"
+            class="form__field"
+            placeholder="example@gmail.com"
+            name="email"
+            id="email"
+            required
+          />
+          <label for="email" class="form__label">Email</label>
+        </div>
+
+        <input id="checkboxterms" type="checkbox" required name="terms" />
+        <label for="checkboxterms"
+          >I accept the <u>Terms and Conditions</u></label
+        >
+        <button type="button">Sign Up</button>
+      </div>
+    </div>
+  </body>
+</html>
