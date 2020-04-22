@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chat App Design Challenge</title>
+    <meta name="description" content="Created by Stephen McVicker" />
+    <link rel="stylesheet" href="index.css" />
+    <!-- FontAwesome -->
+    <script
+      src="https://kit.fontawesome.com/494ff48399.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <div class="chat">
+      <div class="chat__navbar">
+        <i class="fas fa-arrow-left"></i>
+        <!-- Logo?-->
+      </div>
+      <div class="chat__contactdetails">
+        <!-- User profile pic -->
+        <img
+          src="https://images.unsplash.com/photo-1540574573343-bdd23b70c48b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+          alt="Avatar"
+        />
+        <p class="contactdetails contactdetails-name">Andrew Smith</p>
+        <p class="contactdetails contactdetails-onlinestatus">Online</p>
+      </div>
+      <div class="chat__card">
+        <div class="message message-ours">
+          <p>
+            Hi Andrew. Are we still on for lunch tomorrow at the Ivy for 1pm?
+          </p>
+          <div class="message__timestamp">
+            10:25 AM
+            <i class="fas fa-check message__seen"></i>
+            <i class="fas fa-check message__seen"></i>
+          </div>
+        </div>
+        <div class="message message-contacts">
+          <p>
+            Hey steve! How are you? Yes I can meet you tomorrow at that time.
+            It’s a date!
+          </p>
+        </div>
+        <!-- Send Message Input -->
+        <div class="input__group">
+          <input
+            type="text"
+            class="input"
+            id="input__send"
+            placeholder="Type Something..."
+          />
+          <label for="input__send" class="input__label"
+            >Press Enter To Send</label
+          >
+          <i class="fas fa-paper-plane"></i>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
