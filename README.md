@@ -2,9 +2,6 @@
 
 Challenge by DesignCourse: https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow
 
-(Whoops, Typo in the Repo name)
-(This repo started as just Day 1 but all challenges I try will be added here)
-
 I love creating designs, following design rules, and implementing them in HTML/CSS.
 I decided to try and tackle DesignCourses 7days7Designs challenge while stuck indoors during this period.
 In his videos he talks about the rules you must follow, usually a required basic layout.
@@ -36,6 +33,7 @@ I tried to have 2 layouts. For small screen devices, a vertical/column design. f
 https://www.youtube.com/watch?v=dc_gABZzt_U&list=WL&index=27&t=0s
 
 ![mobile](Day2ChatApp/mobile.png)
+(Black line on the left is caused by overshooting the screenshot bounds, it's not in the "app")
 
 No desktop with this challenge. Just mobile so make sure to set your display to a small size or it will just be a mess.
 I was a day behind to due personal reasons but I still wanted to do this in just 1 day.
