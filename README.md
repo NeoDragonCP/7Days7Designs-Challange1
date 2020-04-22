@@ -34,3 +34,8 @@ I tried to have 2 layouts. For small screen devices, a vertical/column design. f
 ## Challenge 2: Chat app
 
 https://www.youtube.com/watch?v=dc_gABZzt_U&list=WL&index=27&t=0s
+
+![mobile](Day2ChatApp/mobile.png)
+
+No desktop with this challenge. Just mobile so make sure to set your display to a small size or it will just be a mess.
+I was a day behind to due personal reasons but I still wanted to do this in just 1 day.
