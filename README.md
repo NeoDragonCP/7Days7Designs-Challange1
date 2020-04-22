@@ -14,9 +14,10 @@ All my designs will be created in Figma first. You'll have to trust me that I ma
 
 ---
 
-![desktop](Day1NewsletterSignup/desktop.png)
-
 ## Challenge 1: Newsletter Signup
+
+![desktop](Day1NewsletterSignup/desktop.png)
+Desktop screenshot
 
 https://www.youtube.com/watch?v=C9WSSN2f4u0
 
@@ -25,6 +26,7 @@ I didn't have time to add a success design or add any real javascript here but I
 I tried to have 2 layouts. For small screen devices, a vertical/column design. for larger devices a row based design.
 
 ![mobile](Day1NewsletterSignup/mobile.png)
+Mobile screenshot.
 
 ---
 
@@ -33,6 +35,8 @@ I tried to have 2 layouts. For small screen devices, a vertical/column design. f
 https://www.youtube.com/watch?v=dc_gABZzt_U&list=WL&index=27&t=0s
 
 ![mobile](Day2ChatApp/mobile.png)
+
+Mobile screenshot.
 (Black line on the left is caused by overshooting the screenshot bounds, it's not in the "app")
 
 No desktop with this challenge. Just mobile so make sure to set your display to a small size or it will just be a mess.
