@@ -39,5 +39,6 @@ https://www.youtube.com/watch?v=dc_gABZzt_U&list=WL&index=27&t=0s
 Mobile screenshot.
 (Black line on the left is caused by overshooting the screenshot bounds, it's not in the "app")
 
-No desktop with this challenge. Just mobile so make sure to set your display to a small size or it will just be a mess.
-I was a day behind to due personal reasons but I still wanted to do this in just 1 day.
+Intended for mobile. Desktop version was not a consideration for this challenge. I would have went with an iPAD style layout if it was (contacts on a left panel, message content on the right);
+I used the ::before element on the Online label to create the circle, which I thought was a clever way to add it.
+FontAwesome was used for the icons.
