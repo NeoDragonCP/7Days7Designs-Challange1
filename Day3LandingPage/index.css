@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    /* Vars */
+
+    --background-color-primary: white;
+    /*#dbe2ef;*/
+    --background-color-secondary: white;
+    /*#447ABD;*/
+    --primary-light: #ffffff;
+    --primary-dark: #303841;
+    --secondary-dark: #68798C;
+    --action-color: #447ABD;
+
+    --desktop-start-size: 600px;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    background-color: var(--primary-light);
+}
+
+.main {
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+@media (min-width: 600px) {
+    .main {
+        width: 90%;
+        height: 90%;
+        flex-direction: row;
+        margin: auto;
+    }
+}
+
+.panel {
+    width: 100%;
+    height: 600px;
+}
+
+@media (min-width: 600px) {
+    .panel {
+        width: 50%;
+        height: 100%;
+    }
+}
+
+.panel-left {
+    color: var(--primary-dark);
+    padding: 2rem;
+}
+
+@media (min-width: 600px) {
+    .panel-left {
+        width: 45%;
+        padding-top: 20rem;
+        padding-left: 4rem;
+    }
+}
+
+.panel-left h1 {
+    font-size: 4rem;
+    padding-bottom: 1rem;
+}
+
+.panel-left h4 {
+    padding-bottom: 8rem;
+    font-size: 1.6rem;
+    font-weight: 400;
+    color: var(--secondary-dark);
+}
+
+.panel-left span {
+    color: var(--action-color);
+    text-transform: uppercase;
+}
+
+.action-btn {
+    background-color: var(--action-color);
+    color: var(--primary-light);
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding: 2rem 4rem 2rem 4rem;
+    border-radius: 50vh;
+    outline: none;
+    border: none;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.panel-right {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+/* Nav bar */
+nav {
+    width: 100vw;
+    height: 80px;
+    line-height: 80px;
+    font-size: 2rem;
+    background-color: transparent;
+
+}
+
+
+
+nav .logo {
+    height: 90%;
+    background-image: url("https://www.pngfind.com/pngs/m/48-480637_black-wifi-logo-png-image-background-wifi-transparent.png");
+    background-repeat: no-repeat;
+    background-size: 100px 90%;
+}
+
+nav ul {
+    float: right;
+    margin-right: 2rem;
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: var(--secondary-dark);
+    padding: 2rem;
+}
+
+nav ul li .active {
+    color: var(--action-color);
+}

@@ -42,3 +42,16 @@ Mobile screenshot.
 Intended for mobile. Desktop version was not a consideration for this challenge. I would have went with an iPAD style layout if it was (contacts on a left panel, message content on the right);
 I used the ::before element on the Online label to create the circle, which I thought was a clever way to add it.
 FontAwesome was used for the icons.
+
+---
+
+## Challenge 3: Landing Page using specific illustration
+
+https://www.youtube.com/watch?v=t-sr6TKdfIM&list=WL&index=26&t=0s
+
+![desktop](Day1NewsletterSignup/desktop.png)
+Desktop screenshot
+
+A very simple landing page. I decided to just focus on the "hero" element rather than build out a full landing page.
+My goal with this design was not only "simple" but to keep it minimal and modern.
+This look could easily be used across various designs as the hero/jumbotron.

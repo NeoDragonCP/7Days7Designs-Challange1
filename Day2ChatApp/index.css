@@ -4,12 +4,9 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Roboto', sans-serif;
 }
 
-body {
-    background-color: #E2E1EC;
-
+:root {
     /* Vars */
 
     --contact-avatar-size: 80px;
@@ -20,7 +17,11 @@ body {
     --online-green: #00BDAA;
     --primary-black: #343434;
     --message-timestamp-color: #B7B7B7;
+}
 
+body {
+    background-color: #E2E1EC;
+    font-family: 'Roboto', sans-serif;
 }
 
 .chat {
