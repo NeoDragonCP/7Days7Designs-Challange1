@@ -49,7 +49,7 @@ FontAwesome was used for the icons.
 
 https://www.youtube.com/watch?v=t-sr6TKdfIM&list=WL&index=26&t=0s
 
-![desktop](Day1NewsletterSignup/desktop.png)
+![desktop](Day3LandingPage/desktop.png)
 Desktop screenshot
 
 A very simple landing page. I decided to just focus on the "hero" element rather than build out a full landing page.
