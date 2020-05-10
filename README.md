@@ -55,3 +55,19 @@ Desktop screenshot
 A very simple landing page. I decided to just focus on the "hero" element rather than build out a full landing page.
 My goal with this design was not only "simple" but to keep it minimal and modern.
 This look could easily be used across various designs as the hero/jumbotron.
+
+---
+
+## Challenge 4: Design whatever you want.
+
+https://www.youtube.com/watch?v=wcGycJagBAE
+
+![desktop](Day3LandingPage/desktop.png)
+Desktop screenshot
+
+For this challenge, I was free to design whatever, from a logo to a UI component.
+I wanted to keep my rule of not only designing in Figma but to actually create the HTML/CSS for the challenge.
+This ruled out doing a logo or something purely just design based.
+
+I decided to go with an animated pricing table. It's mobile friendly thanks to its use of flex.
+I could improve this be changing the color of the professional to make it stand out or give each card it's own accent color.
