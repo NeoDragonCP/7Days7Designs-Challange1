@@ -70,4 +70,4 @@ I wanted to keep my rule of not only designing in Figma but to actually create t
 This ruled out doing a logo or something purely just design based.
 
 I decided to go with an animated pricing table. It's mobile friendly thanks to its use of flex.
-I could improve this be changing the color of the professional to make it stand out or give each card it's own accent color.
+I could improve this by changing the color of the "professional" card to make it stand out or give each card it's own accent color.
