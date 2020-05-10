@@ -62,7 +62,7 @@ This look could easily be used across various designs as the hero/jumbotron.
 
 https://www.youtube.com/watch?v=wcGycJagBAE
 
-![desktop](Day3LandingPage/desktop.png)
+![desktop](Day4DesignAnything/desktop.png)
 Desktop screenshot
 
 For this challenge, I was free to design whatever, from a logo to a UI component.
