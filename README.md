@@ -71,3 +71,12 @@ This ruled out doing a logo or something purely just design based.
 
 I decided to go with an animated pricing table. It's mobile friendly thanks to its use of flex.
 I could improve this by changing the color of the "professional" card to make it stand out or give each card it's own accent color.
+
+--
+
+## Challenge 5-7: Design an Icon.
+
+https://www.youtube.com/watch?v=o0TvQ18ZDZI&list=WL&index=17&t=0s
+
+As of right now, I've decided to skip this challenge (rolled into one video/project).
+It was to draw an icon, design it, then create a micro interaction for it. This was more "design" based rather than coding something for the web, hence my current reason to finish up this challenge. I may come back to it at some point.
